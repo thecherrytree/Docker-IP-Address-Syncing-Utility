@@ -1,5 +1,5 @@
 # **Background**
-When running Docker For Windows on a VPN, company Network, or from home, it was necessary to frequently switch between IP addresses. This caused Docker to take long start-ups by attempting to use the previous IP. This script will allow you to dynamically update the IP address associated with your Docker instance either when login to your device or when you choose to update it by running the script.
+When running Docker For Windows on a VPN, company Network, or from home, it was necessary to frequently switch between IP addresses. This caused Docker to take long start-ups by attempting to use the previous IP. I didn't particularly like this aspect about Docker, so I wrote this script that will allow one to dynamically update the IP address associated with their Docker instance either when they login to their device or when they choose to update the IP address by running the script using the convenient shortcut.
 
 # **Instructions for Syncing Docker with VPN/Dynamic IP**
 1. Ensure CNTLM is working on your computer
