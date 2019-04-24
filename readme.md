@@ -22,4 +22,7 @@ When running Docker For Windows on a VPN, company Network, or from home, it was 
 
 1. Quit and reopen Docker if it was open when you synced IP addresses
 
+#**Questions/Concerns/Feedback**
+Feel free to reach out to me on GitHub, submit a bug, or pull request.
+
 	
